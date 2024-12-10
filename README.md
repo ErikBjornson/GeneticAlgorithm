@@ -1,4 +1,4 @@
-# Software Project Management - semester project - GeneticAlorithm
+# Software Project Management - semester project - GeneticAlgorithm
 
 ![Static Badge](https://img.shields.io/badge/ErikBjornson-GeneticAlgorithm-GeneticAlgorithm)
 ![GitHub top language](https://img.shields.io/github/languages/top/ErikBjornson/GeneticAlgorithm)
